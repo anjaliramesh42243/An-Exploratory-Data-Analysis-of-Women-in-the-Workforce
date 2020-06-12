@@ -1,0 +1,977 @@
+Name,Industry,"Maternity Leave
+Paid (weeks)","Maternity Leave
+Unpaid (weeks)","Paternity Leave
+Paid (weeks)","Paternity Leave
+Unpaid (weeks)"
+ClassPass,Wellness & Fitness,14,12,4,N/A
+Equinox,Wellness & Fitness,6,12,N/A,N/A
+Enterprise Holdings,Transportation: Rental,17,17,N/A,N/A
+"Hertz Global Holdings, Inc.",Transportation: Rental,12,0,N/A,N/A
+"Avis Budget Group, Inc.",Transportation: Rental,6,6,N/A,N/A
+SalonCentric,Wholesale,14,0,N/A,N/A
+Worldwide Produce,Wholesale,6,0,N/A,N/A
+Larson-Juhl,Wholesale,5,2,2,0
+Amtrak,Transportation: Rail,12,0,N/A,N/A
+Union Pacific Railroad,Transportation: Rail,12,4,N/A,N/A
+United Airlines,Transportation: Passenger Air,12,0,N/A,N/A
+Southwest Airlines Co.,Transportation: Passenger Air,12,12,N/A,N/A
+American Airlines,Transportation: Passenger Air,10.5,6,N/A,N/A
+"Delta Air Lines, Inc.",Transportation: Passenger Air,6,16,N/A,N/A
+HAVI Global Solutions,Transportation: Freight & Logistics,24,48,N/A,N/A
+Dematic,Transportation: Freight & Logistics,6,6,N/A,N/A
+Schneider National,Transportation: Freight & Logistics,0,N/A,N/A,N/A
+C.A.R. Transport Inc.,Transportation: Freight & Logistics,0,12,N/A,N/A
+FedEx,Transportation: Couriers & Delivery,50,50,N/A,N/A
+Central Ohio Transit Authority,Transportation: Bus,10,12,N/A,N/A
+BART,Transportation: Bus,6,14,N/A,N/A
+Viasat,Telecommunications,14,0,6,N/A
+Asurion,Telecommunications,12,8,N/A,N/A
+Sprint Corporation,Telecommunications,12,0,N/A,4
+Crown Castle International Corporation,Telecommunications,12,26,N/A,N/A
+Qualcomm Incorporated,Telecommunications,12,12,N/A,N/A
+"RingCentral, Inc.",Telecommunications,10,4,N/A,N/A
+AT&T,Telecommunications,10,3,N/A,N/A
+T-Mobile,Telecommunications,10,4,N/A,N/A
+Verizon,Telecommunications,8,0,N/A,N/A
+Comcast,Telecommunications,8,4,N/A,N/A
+Zoom,Telecommunications,6,6,N/A,N/A
+Spectrum,Telecommunications,8,12,N/A,N/A
+Nokia,Telecommunications,4,6,N/A,N/A
+Bitdefender,Technology: Software,52,N/A,N/A,N/A
+Rangle.io,Technology: Software,52,N/A,N/A,N/A
+JHC Systems,Technology: Software,52,N/A,N/A,N/A
+"Zendesk, Inc",Technology: Software,52,N/A,N/A,N/A
+Palantir,Technology: Software,30,38,N/A,N/A
+Salesforce,Technology: Software,26,0,N/A,N/A
+PandaDoc,Technology: Software,20,N/A,N/A,N/A
+Bounce Exchange,Technology: Software,20,N/A,N/A,N/A
+SAP,Technology: Software,12,12,N/A,N/A
+ServiceNow,Technology: Software,20,N/A,12,N/A
+VMware,Technology: Software,18,0,N/A,N/A
+Slack Technologies,Technology: Software,18,N/A,12,N/A
+Citrix,Technology: Software,18,0,N/A,N/A
+MicroStrategy,Technology: Software,17,N/A,N/A,N/A
+Adobe Systems,Technology: Software,17,15,N/A,N/A
+Ceridian,Technology: Software,14,N/A,N/A,N/A
+"Cornerstone OnDemand, Inc.",Technology: Software,14,N/A,6,12
+Informatica,Technology: Software,16,0,N/A,N/A
+Symphony Talent,Technology: Software,16,N/A,N/A,N/A
+Addepar,Technology: Software,16,N/A,10,N/A
+Palo Alto Networks,Technology: Security,16,23,N/A,N/A
+Tanium,Technology: Security,20,0,8,N/A
+Forcepoint,Technology: Security,12,6,N/A,N/A
+Allegion PLC,Technology: Security,8,4,N/A,N/A
+Coalfire,Technology: Security,10,6,N/A,N/A
+Alarm.com,Technology: Security,6,0,N/A,N/A
+Raytheon,Technology: Security,4,3,N/A,N/A
+Magic Leap,Technology: Research,18,0,N/A,N/A
+Waters Corporation,Technology: Research,1,11,N/A,N/A
+Klarna,Technology: Payments,20,N/A,20,N/A
+Pangea Money Transfer,Technology: Payments,12,0,N/A,N/A
+Ingenico Group,Technology: Payments,12,40,N/A,N/A
+Plastiq,Technology: Payments,12,6,N/A,N/A
+MineralTree,Technology: Payments,12,0,N/A,N/A
+Juniper Networks,Technology: Manufacturing,16,40,N/A,N/A
+IBM,Technology: Manufacturing,12,0,12,N/A
+Apple,Technology: Manufacturing,15,10.5,N/A,N/A
+Cisco,Technology: Manufacturing,13,3,N/A,N/A
+"Micron Technology, Inc.",Technology: Manufacturing,12,N/A,12,12
+PlayStation,Technology: Manufacturing,12,N/A,N/A,N/A
+Itron,Technology: Manufacturing,12,4,N/A,N/A
+Texas Instruments,Technology: Manufacturing,12,N/A,4,N/A
+Snap Inc.,Technology: Manufacturing,12,0,N/A,N/A
+KLA-Tencor Corporation,Technology: Manufacturing,12,6,N/A,N/A
+Advanced Micro Devices,Technology: Manufacturing,12,0,N/A,N/A
+Analog Devices Inc,Technology: Manufacturing,11,1,N/A,N/A
+Ericsson,Technology: Manufacturing,11,12,N/A,N/A
+Intel Corporation,Technology: Manufacturing,8,12,N/A,N/A
+Dell Technologies,Technology: Manufacturing,9,0,12,N/A
+HP Inc.,Technology: Manufacturing,9,12,N/A,N/A
+Audible,Technology: Manufacturing,8,12,N/A,N/A
+Trimble,Technology: Manufacturing,6,6,N/A,N/A
+Seagate Technology,Technology: Manufacturing,6,0,N/A,N/A
+Western Digital Corporation,Technology: Manufacturing,4,4,N/A,N/A
+Electronic Arts,Technology: Gaming,10,N/A,10,N/A
+Casino Football,Technology: Gaming,6,4,N/A,N/A
+Zwift,Technology: Gaming,4.5,3,N/A,N/A
+Funding Circle,Technology: Financial Services,13,N/A,2,N/A
+Kabbage,Technology: Financial Services,12,0,N/A,N/A
+FIS Global,Technology: Financial Services,4.5,0,N/A,N/A
+Personal Capital,Technology: Financial Services,2,0,6,N/A
+"Airbnb, Inc.",Technology: Consumer Internet,30,8,N/A,N/A
+Shopify,Technology: Consumer Internet,26,N/A,N/A,N/A
+Dropbox,Technology: Consumer Internet,24,N/A,24,24
+Rally Health,Technology: Consumer Internet,18,0,N/A,N/A
+Facebook,Technology: Consumer Internet,19,0,N/A,N/A
+Expedia,Technology: Consumer Internet,18,4,12,N/A
+Google,Technology: Consumer Internet,14,7,N/A,N/A
+Carsales,Technology: Consumer Internet,16,N/A,2,N/A
+Postmates,Technology: Consumer Internet,16,N/A,16,N/A
+Linkedin,Technology: Consumer Internet,16,4,N/A,N/A
+Vistaprint,Technology: Consumer Internet,16,N/A,N/A,N/A
+Uber,Technology: Consumer Internet,17,0,18,N/A
+Indeed,Technology: Consumer Internet,16,0,N/A,N/A
+Groupon,Technology: Consumer Internet,14,0,N/A,N/A
+Birchbox,Technology: Consumer Internet,14,0,12,N/A
+Squarespace,Technology: Consumer Internet,13,0,N/A,N/A
+PayScale,Technology: Consumer Internet,12,0,N/A,N/A
+Fairygodboss Inc.,Technology: Consumer Internet,12,N/A,N/A,N/A
+Soofa,Technology: Consumer Internet,12,N/A,N/A,N/A
+PureWow,Technology: Consumer Internet,12,0,N/A,N/A
+Luxoft,Technology: B2B Tech Services,28,28,N/A,N/A
+Tata Consultancy Services,Technology: B2B Tech Services,26,N/A,N/A,N/A
+Hewlett Packard Enterprise,Technology: B2B Tech Services,19,29,26,N/A
+Akamai,Technology: B2B Tech Services,16,N/A,N/A,N/A
+"Datto, Inc.",Technology: B2B Tech Services,16,0,N/A,N/A
+CDK Global,Technology: B2B Tech Services,16,39,N/A,N/A
+"Amazon Web Services, Inc.",Technology: B2B Tech Services,14,12,N/A,N/A
+Cerner Corporation,Technology: B2B Tech Services,12,N/A,4,N/A
+Criteo,Technology: B2B Tech Services,12,12,N/A,N/A
+Athenahealth,Technology: B2B Tech Services,12,0,6,N/A
+MediaMath,Technology: B2B Tech Services,10,0,N/A,N/A
+Avaya,Technology: B2B Tech Services,8,2,N/A,N/A
+Cognizant,Technology: B2B Tech Services,8,2,N/A,N/A
+Teradata,Technology: B2B Tech Services,8,0,N/A,N/A
+Omada,Technology: B2B Tech Services,8,12,N/A,N/A
+"Equinix, Inc.",Technology: B2B Tech Services,8,8,8,N/A
+Optoro,Technology: B2B Tech Services,6,6,N/A,N/A
+CDW Corporation,Technology: B2B Tech Services,6,4,2,N/A
+Iron Mountain,Technology: B2B Tech Services,5,9,N/A,N/A
+Bitovi,Technology: B2B Tech Services,4,0,N/A,N/A
+NASCAR,Sports,8,4,N/A,N/A
+"Clean Harbors, Inc.",Services: Waste Management,0,12,N/A,N/A
+Ubiqus,Services: Translation,1,2,N/A,N/A
+Five Star Quality Care Inc.,Services: Senior Living,N/A,N/A,N/A,N/A
+EasyWayPaper,Services: Other,30,5,N/A,N/A
+Essay 4 Students,Services: Other,25,5,N/A,N/A
+International SOS,Services: Other,16,0,N/A,N/A
+"Rollins, Inc.",Services: Other,12,0,N/A,N/A
+Scholastic Book Fairs,Services: Other,4,4,N/A,N/A
+Uno Assignment Help,Services: Other,4,6,N/A,N/A
+Sample Assignment,Services: Other,2,2,N/A,N/A
+Southern Alabama Regional Council On Aging,Services: Family Care,N/A,N/A,N/A,N/A
+CozyKin,Services: Daycare,6,6,N/A,N/A
+ISSA,Services: Cleaning,12,0,N/A,N/A
+Lowes Foods,Retail: Supermarket Company,15,15,N/A,N/A
+Woolworths Supermarkets,Retail: Supermarket Company,12,N/A,N/A,N/A
+Walmart,Retail: Supermarket Company,12,4,6,N/A
+The Kroger Company,Retail: Supermarket Company,8,4,N/A,N/A
+Hy-Vee,Retail: Supermarket Company,8,4,N/A,N/A
+Meijer,Retail: Supermarket Company,4,0,N/A,N/A
+Save-A-Lot,Retail: Supermarket Company,0,N/A,0,0
+Food Lion,Retail: Supermarket Company,0,N/A,N/A,N/A
+Meredith Digital,Retail: Stationary & Office Supplies,12,0,N/A,N/A
+Staples,Retail: Stationary & Office Supplies,6,6,N/A,N/A
+Bombas,"Retail: Shoes, Accessories and Apparel",16,0,N/A,N/A
+"L Brands, Inc.","Retail: Shoes, Accessories and Apparel",14,0,6,6
+Adidas,"Retail: Shoes, Accessories and Apparel",12,N/A,N/A,22
+Wolverine Worldwide,"Retail: Shoes, Accessories and Apparel",12,12,N/A,N/A
+Trunk Club,"Retail: Shoes, Accessories and Apparel",12,0,N/A,N/A
+DSW,"Retail: Shoes, Accessories and Apparel",11,0,N/A,N/A
+DICK'S Sporting Goods,"Retail: Shoes, Accessories and Apparel",10,4,N/A,N/A
+Abercrombie & Fitch,"Retail: Shoes, Accessories and Apparel",8,0,N/A,N/A
+VF Corporation,"Retail: Shoes, Accessories and Apparel",8,12,N/A,N/A
+Target,"Retail: Shoes, Accessories and Apparel",6,11,N/A,N/A
+Zumiez,"Retail: Shoes, Accessories and Apparel",6,N/A,2,N/A
+Evisons,"Retail: Shoes, Accessories and Apparel",6,0,N/A,N/A
+Haggar,"Retail: Shoes, Accessories and Apparel",6,24,N/A,N/A
+ANN Inc.,"Retail: Shoes, Accessories and Apparel",6,6,N/A,N/A
+Columbia Sportswear,"Retail: Shoes, Accessories and Apparel",4,8,4,N/A
+Victoria's Secret,"Retail: Shoes, Accessories and Apparel",4,8,N/A,N/A
+J.Crew,"Retail: Shoes, Accessories and Apparel",3,6,N/A,N/A
+Fossil,"Retail: Shoes, Accessories and Apparel",0,6,N/A,N/A
+Uniqlo,"Retail: Shoes, Accessories and Apparel",0,0,N/A,N/A
+Uncommon Goods,Retail: Other,12,0,N/A,N/A
+Guitar Center,Retail: Other,12,0,N/A,N/A
+Marshall Retail Group,Retail: Other,9,0,N/A,N/A
+"Ulta Beauty, Inc.",Retail: Other,6,9,N/A,N/A
+Academy Sports + Outdoors,Retail: Other,6,1,N/A,N/A
+Instacart,Retail: Online,18,12,12,N/A
+Zola,Retail: Online,12,4,N/A,N/A
+Overstock.com,Retail: Online,4,N/A,4,N/A
+Tiffany & Co,Retail: Jewelery,6,0,N/A,N/A
+Signet Jewelers Ltd.,Retail: Jewelery,6,6,N/A,N/A
+Tesco PLC,Retail: General Merchandise,28,24,N/A,N/A
+Lowe's Companies,Retail: General Merchandise,12,0,N/A,N/A
+Costco Wholesale,Retail: General Merchandise,12,6,N/A,N/A
+One Kings Lane,Retail: Furniture & Home Improvement,20,0,N/A,N/A
+Wayfair,Retail: Furniture & Home Improvement,14,2,6,N/A
+Central Garden & Pet,Retail: Furniture & Home Improvement,6,6,N/A,N/A
+The Home Depot,Retail: Furniture & Home Improvement,6,6,N/A,N/A
+Crutchfield,Retail: Electronics,2,20,N/A,N/A
+BJs Wholesale Club,Retail: Discount Store,10,2,N/A,N/A
+"Family Dollar Stores, Inc.",Retail: Discount Store,9,0,N/A,N/A
+Dollar General,Retail: Discount Store,8,0,N/A,N/A
+Aldi US,Retail: Discount Store,6,6,N/A,N/A
+"Ross Stores, Inc.",Retail: Discount Store,6,6,N/A,N/A
+Macy's,Retail: Department Store,11.5,6,N/A,N/A
+Michaels,"Retail: Crafts, Fabrics & Party Supplies",8,0,N/A,N/A
+Love's,Retail: Convenience Store,8,6,N/A,N/A
+Trader Joe’s,Retail: Convenience Store,0,N/A,N/A,N/A
+"Carter's, Inc.",Retail: Baby products,8,0,N/A,N/A
+Bidwells LLP,Real Estate: Other,12,40,N/A,N/A
+Cozy,Real Estate: Other,2,0,N/A,N/A
+Aimco,Real Estate: Investment Trust,16,0,N/A,N/A
+Cushman & Wakefield,Real Estate: Development & Management,12,N/A,6,6
+TF Cornerstone,Real Estate: Development & Management,12,0,N/A,N/A
+CBRE,Real Estate: Development & Management,6,1,N/A,N/A
+Jones Lang LaSalle,Real Estate: Development & Management,5,12,N/A,N/A
+Banner Real Estate Group,Real Estate: Development & Management,4,8,N/A,N/A
+Redfin,Real Estate: Brokers,16,N/A,N/A,N/A
+Compass Real Estate,Real Estate: Brokers,16,0,N/A,N/A
+Square Yards,Real Estate: Brokers,12,13,N/A,N/A
+Mcgraw-Hill Education,Publishing,16,1,N/A,N/A
+American City Business Journals,Publishing,12,0,N/A,N/A
+Pearson Education,Publishing,8.5,8,N/A,N/A
+W.W. Norton & Company,Publishing,8,24,N/A,N/A
+Penguin Random House,Publishing,7,0,N/A,N/A
+Wiley Publishing,Publishing,6,6,N/A,N/A
+Edelman,Public Relations,12,0,N/A,N/A
+Golin,Public Relations,8,27,N/A,N/A
+Curley & Pynn,Public Relations,6,0,N/A,N/A
+BCW (Burson Cohn & Wolfe),Public Relations,4,0,N/A,N/A
+MOO,Printing,2,40,2,N/A
+Bill and Melinda Gates Foundation,Philanthropy,26,N/A,26,N/A
+Chan Zuckerberg Initiative,Philanthropy,16,0,N/A,N/A
+Harold Grinspoon Foundation,Philanthropy,13,12,N/A,N/A
+Walgreens,Pharmacies & Drug Stores,10,6,8,N/A
+Express Scripts Holding,Pharmacies & Drug Stores,2,6,N/A,N/A
+Vertex Pharmaceuticals,Pharmaceutical,16,0,4,N/A
+Bristol-Myers Squibb Company,Pharmaceutical,15,8,N/A,N/A
+Novartis,Pharmaceutical,14,N/A,N/A,N/A
+GlaxoSmithKline,Pharmaceutical,12,N/A,N/A,N/A
+Takeda,Pharmaceutical,12,0,N/A,N/A
+Oceanic Pharmachem Pvt. Ltd.,Pharmaceutical,12,14,N/A,N/A
+Pfizer,Pharmaceutical,11.5,12,N/A,N/A
+Bayer AG,Pharmaceutical,11,18.5,N/A,N/A
+Agios Pharmaceuticals,Pharmaceutical,8,0,N/A,N/A
+Abbott Nutrition,Pharmaceutical,8,16,2,N/A
+"Merck & Co., Inc.",Pharmaceutical,6,16,N/A,N/A
+McKesson,Pharmaceutical,6,0,6,N/A
+Bayer HealthCare Pharmaceuticals,Pharmaceutical,4,1,N/A,N/A
+Worldwide Clinical Trials,Pharmaceutical,3,5,N/A,N/A
+Dart Container,Packaging,6,0,N/A,N/A
+Sonoco Products Company,Packaging,6,6,N/A,N/A
+Avery Dennison,Packaging,4,0,N/A,N/A
+Evergreen Packaging,Packaging,4,2,N/A,N/A
+AICPA,Nonprofit: Trade Organization,12,0,N/A,N/A
+Silicon Valley Employers Forum,Nonprofit: Trade Organization,12,N/A,N/A,N/A
+SPEEA,Nonprofit: Trade Organization,0,N/A,N/A,N/A
+American Chemical Society,Nonprofit: Science & Technology,8,12,N/A,N/A
+American Institutes for Research,Nonprofit: Research,12,12,N/A,N/A
+RTI International,Nonprofit: Research,6,N/A,N/A,N/A
+The MITRE Corporation,Nonprofit: Research,2,N/A,2,N/A
+The Leukemia & Lymphoma Society,Nonprofit: Research,0,12,N/A,N/A
+Archdiocese of Chicago,Nonprofit: Religious,12,12,N/A,N/A
+Brookings Institution,Nonprofit: Public Policy,4,16,N/A,N/A
+SEIU,Nonprofit: Political Organization,N/A,N/A,12,N/A
+The Field Museum,Nonprofit: Museums,8,4,N/A,N/A
+Whitney Museum of American Art,Nonprofit: Museums,4,4,N/A,N/A
+"MOXI, The Wolf Museum of Exploration + Innovation",Nonprofit: Museums,1,12,N/A,N/A
+Massachusetts Medical Society,Nonprofit: Medical,12,0,N/A,N/A
+American Dental Association,Nonprofit: Medical,6,6,N/A,N/A
+Legal Aid of North Carolina,Nonprofit: Legal Services,6,6,N/A,N/A
+Legal Aid Society - Employment Law Center,Nonprofit: Legal,12,52,N/A,N/A
+Legal Aid of North Carolina,Nonprofit: Legal Services,6,6,N/A,N/A
+American Red Cross,Nonprofit: Humanitarian Aid Organization,N/A,12,N/A,N/A
+Global Health Corps,Nonprofit: Healthcare,12,0,N/A,N/A
+Planned Parenthood,Nonprofit: Healthcare,6,6,N/A,N/A
+Harvard Pilgrim Health Care,Nonprofit: Healthcare,4,0,N/A,N/A
+Sanford Health,Nonprofit: Healthcare,4,4,N/A,N/A
+Trinity Health System,Nonprofit: Healthcare,2,N/A,N/A,N/A
+Financial Ombudsman Service,Nonprofit: Finance,26,12,N/A,N/A
+Natural Resources Defense Council,Nonprofit: Environmental Organization,24,12,N/A,N/A
+Carbon180,Nonprofit: Environmental Organization,16,6,N/A,N/A
+Teach for America,Nonprofit: Education,12,0,N/A,N/A
+Endeavor,Nonprofit: Development,16,0,N/A,N/A
+FHI 360,Nonprofit: Development,10,2,N/A,N/A
+Convergence,Nonprofit: Civic & Social,26,26,N/A,N/A
+Foundation Center,Nonprofit: Civic & Social,12,16,N/A,N/A
+The Pew Charitable Trusts,Nonprofit: Charity,6,6,N/A,N/A
+Save the Children,Nonprofit: Charity,5,0,N/A,N/A
+Lower Colorado River Authority,Natural Resources: Renewables & Environment,N/A,N/A,0,N/A
+Baker Hughes,Natural Resources: Oilfield Services,16,6,N/A,N/A
+ASRC Energy Services,Natural Resources: Oilfield Services,12,0,N/A,N/A
+Halliburton,Natural Resources: Oilfield Services,8,N/A,N/A,N/A
+Schlumberger,Natural Resources: Oilfield Services,4,12,N/A,N/A
+Exxon Mobil,Natural Resources: Oil & Gas,10,6,N/A,N/A
+Chevron,Natural Resources: Oil & Gas,8,52,8,N/A
+"T.D. Williamson, Inc.",Natural Resources: Oil & Gas,6,6,N/A,N/A
+Phillips 66,Natural Resources: Oil & Gas,6,12,N/A,N/A
+"Enbridge, Inc.",Natural Resources: Oil & Gas,6,12,N/A,N/A
+Freeport-McMoRan,Natural Resources: Metals & Mining,26,0,N/A,N/A
+BHP Billiton Ltd.,Natural Resources: Metals & Mining,18,34,2,8
+Novelis,Natural Resources: Metals & Mining,12,0,N/A,N/A
+Exelon Corporation,Natural Resources: Electric Power Generation,23,11,N/A,N/A
+Duke Energy Corporation,Natural Resources: Electric Power Generation,14,3,N/A,N/A
+ContourGlobal,Natural Resources: Electric Power Generation,9,0,N/A,N/A
+"American Electric Power Company, Inc.",Natural Resources: Electric Power Generation,8,N/A,2,N/A
+Pacific Gas and Electric Company,Natural Resources: Electric Power Generation,8,0,N/A,N/A
+NextEra Energy,Natural Resources: Electric Power Generation,3,9,0,N/A
+National Grid plc,Natural Resources: Electric & Gas Utility,26,13,N/A,N/A
+Severn Trent,Natural Resources: Electric & Gas Utility,13,N/A,N/A,N/A
+Direct Energy,Natural Resources: Electric & Gas Utility,12,0,N/A,N/A
+Consumers Energy,Natural Resources: Electric & Gas Utility,4,3,2,N/A
+Consolidated Edison Inc.,Natural Resources: Diversified Energy,8,24,N/A,N/A
+"NRG Energy, Inc.",Natural Resources: Diversified Energy,6,6,N/A,N/A
+BASF,Natural Resources: Chemicals,18,N/A,N/A,N/A
+DuPont,Natural Resources: Chemicals,16,2,N/A,N/A
+Air Liquide,Natural Resources: Chemicals,14,N/A,6,0
+Ineos,Natural Resources: Chemicals,13,6,N/A,N/A
+Dow Chemical,Natural Resources: Chemicals,12,6,N/A,N/A
+AkzoNobel Global,Natural Resources: Chemicals,12,12,N/A,N/A
+Ingevity Corporation,Natural Resources: Chemicals,10,1,4,N/A
+PolyOne Corporation,Natural Resources: Chemicals,6,12,N/A,N/A
+LyondellBasell,Natural Resources: Chemicals,0,12,N/A,N/A
+FMC Corporation,Natural Resources: Agrochemical,6,14,N/A,N/A
+CHS Inc.,Natural Resources: Agrochemical,0,16,N/A,N/A
+Cargill,Natural Resources: Agriculture and Food Processing,12,0,N/A,N/A
+Bunge North America,Natural Resources: Agriculture and Food Processing,0,6,N/A,N/A
+TEGNA,Media: Television,12,12,2,12
+Altice USA,Media: Television,12,0,N/A,N/A
+Public Broadcasting Service,Media: Television,12,0,N/A,N/A
+Sinclair Broadcast Group,Media: Television,6,0,N/A,N/A
+Tribune Media Company,Media: Television,0,N/A,N/A,N/A
+Dow Jones,Media: News,20,12,N/A,N/A
+New York Times,Media: News,16,26,N/A,N/A
+Business Insider,Media: News,12,0,N/A,N/A
+Gannett,Media: News,2,12,N/A,N/A
+The Atlantic,Media: Magazines,12,4,N/A,N/A
+Spins,Media: Magazines,6,0,N/A,N/A
+Madison Square Garden,Media: Entertainment,12,0,N/A,N/A
+Showtime,Media: Entertainment,9,3,N/A,N/A
+Cinemark,Media: Entertainment,1,12,N/A,N/A
+Thomson Reuters,Media: Diversified,14,7,N/A,N/A
+Turner Broadcasting,Media: Diversified,12,N/A,6,6
+"TheStreet, Inc.",Media: Diversified,12,0,N/A,N/A
+Viacom Inc.,Media: Diversified,9,3,N/A,N/A
+WarnerMedia,Media: Diversified,6,0,6,N/A
+Cox,Media: Diversified,3,8,N/A,N/A
+Condé Nast,Media: Diversified,4,0,N/A,N/A
+WGBH,Media: Diversified,4,12,N/A,N/A
+The Walt Disney Company,Media: Diversified,3,12,1,4
+Champions Yacht Club,"Leisure, Travel & Tourism",4,0,N/A,N/A
+Wynyard Wood,Law Firm,26,52,N/A,N/A
+"Orrick, Herrington & Sutcliffe LLP",Law Firm,24,N/A,16,N/A
+Cooley LLP,Law Firm,24,12,N/A,N/A
+Hogan Lovells,Law Firm,20,6,N/A,N/A
+Linklaters LLP,Law Firm,18,0,N/A,N/A
+Mintz Levin Cohn Ferris Glovsky and Popeo PC,Law Firm,17,0,N/A,N/A
+Cleary Gottlieb Steen & Hamilton LLP,Law Firm,16,26,N/A,N/A
+Blank Rome LLP,Law Firm,16,0,N/A,N/A
+Simpson Thacher & Bartlett LLP,Law Firm,16,10,N/A,N/A
+Desmarais LLP,Law Firm,12,0,N/A,N/A
+Jackson Lewis,Law Firm,12,12,N/A,N/A
+Littler Mendelson P.C.,Law Firm,12,0,N/A,N/A
+Schlam Stone & Dolan,Law Firm,12,4,N/A,N/A
+Entwistle & Cappucci LLC,Law Firm,8,10,N/A,N/A
+McLane Middleton PA,Law Firm,6,6,N/A,N/A
+"Correia & Puth, PLLC",Law Firm,6,10,N/A,N/A
+Fragomen,Law Firm,6,6,N/A,N/A
+Crowell & Moring,Law Firm,4,0,N/A,N/A
+Holland & Knight LLP,Law Firm,4,8,6,N/A
+Guy Carpenter,Insurance: Reinsurance,8,12,N/A,N/A
+Intact Financial Corporation,Insurance: Property & Casualty,52,0,N/A,N/A
+Liberty Mutual Insurance,Insurance: Property & Casualty,16,0,N/A,N/A
+Geico,Insurance: Property & Casualty,10,0,N/A,N/A
+State Farm,Insurance: Property & Casualty,9,0,6,N/A
+Capital Insurance Group,Insurance: Property & Casualty,6,6,N/A,N/A
+The Hartford,Insurance: Property & Casualty,5,6,N/A,N/A
+The Hanover Insurance Group,Insurance: Property & Casualty,6,4,N/A,N/A
+Travelers,Insurance: Property & Casualty,2,8,N/A,N/A
+Brighthouse Financial,Insurance: Life,14,0,N/A,N/A
+National Benefit Life Insurance,Insurance: Life,13,15,N/A,N/A
+New York Life Insurance Company,Insurance: Life,11,19,N/A,N/A
+Northwestern Mutual,Insurance: Life,12,6,N/A,N/A
+Prudential,Insurance: Life,10,1,N/A,N/A
+GuardianLife,Insurance: Life,7,7,N/A,N/A
+Unum Group,Insurance: Life,6,23,N/A,N/A
+CIGNA Corporation,Insurance: Health,27,N/A,N/A,N/A
+Oscar Health,Insurance: Health,16,0,N/A,N/A
+Blue Cross and Blue Shield of Minnesota,Insurance: Health,12,0,N/A,N/A
+Independence Blue Cross,Insurance: Health,12,7,N/A,N/A
+UCare,Insurance: Health,12,5,N/A,N/A
+Cambia Health Solutions,Insurance: Health,8,0,N/A,N/A
+Aetna,Insurance: Health,6,16,N/A,N/A
+Humana,Insurance: Health,6,6,6,N/A
+WellCare Health Plans,Insurance: Health,6,6,N/A,N/A
+Highmark Inc.,Insurance: Health,6,4,N/A,4
+Kaiser Permanente,Insurance: Health,6,0,N/A,N/A
+Anthem,Insurance: Health,6,6,N/A,N/A
+"CareFirst, Inc.",Insurance: Health,6,6,N/A,N/A
+UnitedHealth Group,Insurance: Health,4,8,4,4
+Trion Group,Insurance: Health,2,10,N/A,N/A
+Centene Corporation,Insurance: Health,1.5,9,N/A,N/A
+Acuity,Insurance: Diversified,12,0,N/A,N/A
+Hiscox,Insurance: Diversified,12,0,N/A,N/A
+The McGowan Companies Inc.,Insurance: Diversified,12,12,N/A,N/A
+IAG Limited,Insurance: Diversified,12,40,N/A,N/A
+AON PLC,Insurance: Diversified,10,12,6,N/A
+"Matrix Absence Management, Inc.",Insurance: Diversified,8,N/A,N/A,N/A
+CUNA Mutual Group,Insurance: Diversified,8,N/A,12,N/A
+Trustmark Companies,Insurance: Diversified,6,6,N/A,N/A
+OneAmerica,Insurance: Diversified,0,12,N/A,N/A
+Hub International,Insurance: Brokerage,12,4,N/A,N/A
+Willis Towers Watson,Insurance: Brokerage,4,20,N/A,N/A
+Avanade Inc.,Information Services: Technology,18,6,N/A,N/A
+VTS,Information Services: Technology,16,0,N/A,N/A
+MEDITECH,Information Services: Technology,16,0,N/A,N/A
+Remind,Information Services: Technology,16,0,N/A,N/A
+Yext,Information Services: Technology,16,N/A,N/A,N/A
+J2 Global,Information Services: Technology,16,0,N/A,N/A
+WP Engine,Information Services: Technology,16,0,N/A,N/A
+Forrester Research,Information Services: Technology,14,0,2,N/A
+Cloudreach,Information Services: Technology,12,0,N/A,N/A
+1010data,Information Services: Technology,12,8,N/A,N/A
+PatientPop,Information Services: Technology,12,12,N/A,N/A
+Hitachi Vantara,Information Services: Technology,12,0,N/A,N/A
+DeepCrawl,Information Services: Technology,12,N/A,N/A,N/A
+Gartner,Information Services: Technology,12,0,N/A,N/A
+Limeade,Information Services: Technology,8,18,N/A,N/A
+The Gordian Group,Information Services: Technology,8,12,N/A,N/A
+SpotX,Information Services: Technology,6,12,N/A,N/A
+Dude Solutions,Information Services: Technology,6,12,N/A,N/A
+Verisk Analytics,Information Services: Technology,4,8,N/A,N/A
+ClearDATA,Information Services: Technology,4,N/A,N/A,N/A
+OM1,Information Services: Technology,4,0,N/A,N/A
+Niche,Information Services: Technology,4,N/A,N/A,N/A
+DocuSystems,Information Services: Technology,3,0,N/A,N/A
+Equian,Information Services: Technology,3,N/A,N/A,N/A
+CACI,Information Services: Technology,3,N/A,N/A,N/A
+Smarsh,Information Services: Technology,2,N/A,N/A,N/A
+Wisetech Global,Information Services: Technology,0,N/A,N/A,N/A
+Bloomberg BNA,Information Services: Legal,12,10,N/A,N/A
+Bloomberg,Information Services: Financial,26,0,N/A,N/A
+Ipreo Holdings LLC,Information Services: Financial,24,8,N/A,N/A
+Experian PLC,Information Services: Financial,20,12,N/A,N/A
+S&P Global Market Intelligence,Information Services: Financial,18,0,N/A,N/A
+TransUnion,Information Services: Financial,18,0,N/A,N/A
+S&P Global Inc,Information Services: Financial,18,2,N/A,N/A
+Factset Research Systems,Information Services: Financial,16,0,N/A,N/A
+NASDAQ,Information Services: Financial,16,0,N/A,N/A
+Dun & Bradstreet,Information Services: Financial,15,20,N/A,N/A
+WinBizSolutions,Information Services: Diversified,16,0,N/A,N/A
+Gerson Lehrman,Information Services: Diversified,12,0,N/A,N/A
+Nova Credit,Information Services: Diversified,11,5,N/A,N/A
+Argus Media,Information Services: Diversified,8,12,1,N/A
+Reis,Information Services: Diversified,4,4,N/A,N/A
+Wolters Kluwer,Information Services: Diversified,0,N/A,N/A,N/A
+McMaster-Carr,Industrial: Other,6,0,N/A,N/A
+United Rentals,Industrial: Other,6,5,N/A,N/A
+Emerson Electric Co.,Industrial: Materials,12,0,2,N/A
+Orica Limited,Industrial: Materials,12,0,N/A,N/A
+"Aleris International, Inc.",Industrial: Materials,4,0,N/A,N/A
+Avantor,Industrial: Materials,4,0,N/A,N/A
+Southwire,Industrial: Materials,2,12,N/A,N/A
+Bhel,Industrial: Equipment Manufacturing,50,N/A,N/A,N/A
+Terex,Industrial: Equipment Manufacturing,10,2,N/A,N/A
+Hilti Corporation,Industrial: Equipment Manufacturing,12,4,N/A,N/A
+Genie Industries,Industrial: Equipment Manufacturing,12,12,N/A,N/A
+John Deere,Industrial: Equipment Manufacturing,12,12,N/A,N/A
+Cummins,Industrial: Equipment Manufacturing,12,12,N/A,N/A
+ITW,Industrial: Equipment Manufacturing,8,2,N/A,N/A
+Westinghouse Electric Company,Industrial: Equipment Manufacturing,6,0,N/A,N/A
+Deere & Company,Industrial: Equipment Manufacturing,6,6,N/A,N/A
+Kohler Co.,Industrial: Equipment Manufacturing,6,6,2,N/A
+BEUMER Group,Industrial: Equipment Manufacturing,4,0,4,N/A
+Caterpillar Inc.,Industrial: Equipment Manufacturing,4,6,N/A,N/A
+CNH Industrial,Industrial: Equipment Manufacturing,0,N/A,N/A,N/A
+Arup,Industrial: Engineering,12,N/A,N/A,N/A
+Pfaudler inc,Industrial: Engineering,10,0,N/A,N/A
+Thornton Tomasetti,Industrial: Engineering,8,8,N/A,N/A
+Pentair,Industrial: Engineering,6,6,N/A,N/A
+Xylem Inc.,Industrial: Engineering,4,0,N/A,N/A
+WSP Global,Industrial: Engineering,2,12,N/A,N/A
+Murraysmith,Industrial: Engineering,0,12,N/A,N/A
+3M,Industrial: Diversified,10,10,N/A,10
+Jason Industrial,Industrial: Diversified,12,0,N/A,N/A
+Eaton,Industrial: Diversified,12,0,N/A,N/A
+Danaher Corporation,Industrial: Diversified,8,8,N/A,N/A
+Honeywell,Industrial: Diversified,4,29,N/A,N/A
+EnerSys,Industrial: Diversified,0,12,0,N/A
+Graham Construction & Engineering Inc,Industrial: Construction Company,12,52,N/A,N/A
+Mortenson Construction,Industrial: Construction Company,10,0,N/A,N/A
+Balfour Beatty US,Industrial: Construction Company,8,N/A,N/A,N/A
+Foster Design Build,Industrial: Construction Company,8,1,N/A,N/A
+"Structure Tone, LLC",Industrial: Construction Company,6,12,N/A,N/A
+Saint-Gobain,Industrial: Building Materials Manufacturing,20,N/A,12,N/A
+"Mohawk Industries, Inc.",Industrial: Building Materials Manufacturing,12,32,N/A,N/A
+The Sherwin-Williams Company,Industrial: Building Materials Manufacturing,8,8,N/A,N/A
+Lehigh Hanson,Industrial: Building Materials Manufacturing,6,6,N/A,N/A
+IDEO,Industrial: Architecture & Design,16,8,6,N/A
+Dwell Design Studio,Industrial: Architecture & Design,6,6,N/A,N/A
+HOK,Industrial: Architecture & Design,6,N/A,2,N/A
+Deborah Berke Partners,Industrial: Architecture & Design,6,4,N/A,N/A
+Gensler,Industrial: Architecture & Design,6,12,0,N/A
+Perkins + Will,Industrial: Architecture & Design,4,0,4,N/A
+Gerber,Industrial: Appliances & Furniture,14,12,N/A,N/A
+Steelcase,Industrial: Appliances & Furniture,9,3,N/A,N/A
+"Stanley Black & Decker, Inc.",Industrial: Appliances & Furniture,2,14,N/A,N/A
+McDonald's Corporation,Hospitality: Restaurants,12,8,N/A,N/A
+Starbucks,Hospitality: Restaurants,6,12,6,N/A
+Chipotle Mexican Grill,Hospitality: Restaurants,8,N/A,N/A,N/A
+Waffle House,Hospitality: Restaurants,6,N/A,N/A,N/A
+Gate Gourmet,Hospitality: Restaurants,6,12,N/A,N/A
+Texas Roadhouse,Hospitality: Restaurants,6,11,N/A,N/A
+Momofuku,Hospitality: Restaurants,4,8,N/A,N/A
+Red Robin,Hospitality: Restaurants,0,12,N/A,N/A
+Chick-fil-A,Hospitality: Restaurants,0,N/A,N/A,N/A
+Disneyland,Hospitality: Resorts,8,0,N/A,N/A
+Hilton Grand Vacations,Hospitality: Resorts,8,8,N/A,N/A
+Vail Resorts,Hospitality: Resorts,4,2,N/A,N/A
+Blue Apron,Hospitality: Meal Kit Delivery,12,0,N/A,N/A
+Intercontinental Hotels Group,Hospitality: Hotels,50,N/A,N/A,N/A
+Marriott International,Hospitality: Hotels,12,8,2,N/A
+Hilton,Hospitality: Hotels,9.5,5,N/A,N/A
+Rosewood Hotels & Resorts,Hospitality: Hotels,2,0,N/A,N/A
+Sysco,Hospitality: Foodservice Distributors,6,0,0,N/A
+Caesars Entertainment Corporation,Hospitality: Casinos,N/A,0,N/A,N/A
+Flatiron Health,Healthcare: Telemedicine,52,0,N/A,N/A
+GE Healthcare Systems,Healthcare: Services,14,4,N/A,N/A
+Evolent Health,Healthcare: Services,11,52,N/A,N/A
+Be The Match,Healthcare: Services,6,6,N/A,N/A
+Magellan Health,Healthcare: Services,6,0,N/A,N/A
+Lumeris,Healthcare: Services,6,0,N/A,N/A
+Coloplast,Healthcare: Products,10,2,N/A,N/A
+SmileDirectClub,Healthcare: Products,8,4,N/A,N/A
+Aquilant,Healthcare: Medical Devices,39,13,N/A,N/A
+"Hologic, Inc.",Healthcare: Medical Devices,16,12,N/A,N/A
+Boston Scientific,Healthcare: Medical Devices,12,1,N/A,N/A
+Stryker Corporation,Healthcare: Medical Devices,12,0,N/A,N/A
+Varian Medical Systems,Healthcare: Medical Devices,12,0,N/A,N/A
+"Medtronic, Inc.",Healthcare: Medical Devices,12,0,N/A,N/A
+Roche Diagnostics,Healthcare: Medical Devices,12,12,N/A,N/A
+Cook Medical,Healthcare: Medical Devices,10,6,N/A,N/A
+Medline Industries,Healthcare: Medical Devices,8,12,N/A,N/A
+"Becton, Dickinson and Company",Healthcare: Medical Devices,6,12,N/A,N/A
+"Zimmer Biomet Holdings, Inc.",Healthcare: Medical Devices,6,6,N/A,N/A
+Olympus Corporation,Healthcare: Medical Devices,4,0,N/A,N/A
+Intuitive Surgical Inc.,Healthcare: Medical Devices,1,12,N/A,N/A
+Instrumentation Laboratory Company,Healthcare: Medical Devices,0,N/A,0,N/A
+"NxStage Medical, Inc.",Healthcare: Medical Devices,0,N/A,N/A,N/A
+Karius,Healthcare: Laboratory Testing,12,0,N/A,N/A
+MiraVista Diagnostics,Healthcare: Laboratory Testing,0,12,N/A,N/A
+Sentara Healthcare,Healthcare: Hospitals & Clinics,12,12,N/A,N/A
+MetroHealth Medical Center,Healthcare: Hospitals & Clinics,12,0,N/A,N/A
+Providence Health & Services,Healthcare: Hospitals & Clinics,8,12,N/A,N/A
+Dupage Medical Group,Healthcare: Hospitals & Clinics,8,0,N/A,N/A
+Johns Hopkins All Children's Hospital,Healthcare: Hospitals & Clinics,8,0,N/A,N/A
+Partners Healthcare,Healthcare: Hospitals & Clinics,8,4,N/A,N/A
+University of Pennsylvania Health System,Healthcare: Hospitals & Clinics,8,0,N/A,N/A
+University of Michigan Health System,Healthcare: Hospitals & Clinics,6,0,N/A,N/A
+Houston Methodist,Healthcare: Hospitals & Clinics,6,6,N/A,N/A
+Molina Healthcare,Healthcare: Hospitals & Clinics,6,0,N/A,N/A
+Memorial Sloan Kettering Cancer Center,Healthcare: Hospitals & Clinics,6,3,N/A,N/A
+Memorial Hermann,Healthcare: Hospitals & Clinics,6,3,N/A,N/A
+Mayo Clinic,Healthcare: Hospitals & Clinics,5,6.5,N/A,N/A
+Denver Health Medical Center,Healthcare: Hospitals & Clinics,5,9,N/A,N/A
+University of Pittsburgh Medical Center,Healthcare: Hospitals & Clinics,2,6,2,N/A
+Inova,Healthcare: Hospitals & Clinics,0,N/A,N/A,N/A
+University Hospitals,Healthcare: Hospitals & Clinics,0,N/A,N/A,N/A
+Aurora Health Care,Healthcare: Hospitals & Clinics,0,12,N/A,0
+Children's National Health System,Healthcare: Family Care,N/A,N/A,N/A,16
+Philips Healthcare,Healthcare: Diversified,12,0,N/A,N/A
+Call9,Healthcare: Diversified,8,4,N/A,N/A
+Southern Health Partners,Healthcare: Diversified,4,8,2,2
+CVS Health,Healthcare: Diversified,3,16,4,N/A
+"Rho, Inc.",Healthcare: Diversified,2,10,N/A,N/A
+Allakos Inc.,Healthcare: Biotechnology,12,0,N/A,N/A
+Biogen,Healthcare: Biotechnology,12,0,N/A,N/A
+Thermo Fisher Scientific Inc.,Healthcare: Biotechnology,12,12,N/A,N/A
+Seres Therapeutics,Healthcare: Biotechnology,12,0,N/A,N/A
+Illumina,Healthcare: Biotechnology,6,6,6,N/A
+Ambry Genetics,Healthcare: Biotechnology,6,0,N/A,N/A
+Charles River Laboratories,Healthcare: Biotechnology,6,6,N/A,N/A
+Veracyte,Healthcare: Biotechnology,6,6,N/A,N/A
+Corizon Correctional Healthcare,Healthcare: Behavioral,8,12,N/A,N/A
+"Beacon Health Options, Inc.",Healthcare: Behavioral,4,6,N/A,N/A
+Banfield Pet Hospital,Healthcare: Animal Health,6,0,N/A,N/A
+Veterinary Emergency Group,Healthcare: Animal Health,6,6,N/A,N/A
+Port Authority of New York & New Jersey,Government: State,2,3,N/A,N/A
+World Bank Group,Government: International,12,0,N/A,N/A
+OECD,Government: International,12,0,N/A,N/A
+United Nations,Government: International,4,0,N/A,N/A
+U.S. Department of Veterans Affairs,Government: Federal,16,16,N/A,N/A
+The United States Air Force,Government: Federal,12,0,N/A,N/A
+United States Navy,Government: Federal,12,0,N/A,N/A
+Federal Reserve Bank of Chicago,Government: Federal,12,0,N/A,N/A
+NASA Jet Propulsion Laboratory,Government: Federal,12,0,N/A,N/A
+Argonne National Laboratory,Government: Federal,6,6,N/A,N/A
+National Security Agency,Government: Federal,6,12,N/A,N/A
+NSA,Government: Federal,4,1,N/A,N/A
+Corporation for National and Community Service,Government: Federal,0,0,N/A,N/A
+U.S. Department of Education,Government: Federal,0,12,N/A,N/A
+Spokane County,Government: County,52,26,N/A,N/A
+Marion County Sheriff's Office,Government: County,13,20,N/A,N/A
+"Multnomah County, Oregon",Government: County,12,0,N/A,N/A
+Los Angeles County,Government: County,0,N/A,N/A,N/A
+Sandia National Laboratories,Government: Contractor,6,12,6,6
+New York City Economic Development Corporation,Government: City,6,1,N/A,N/A
+City of Virginia Beach,Government: City,6,0,N/A,N/A
+"Adams Street Partners, LLC",Finance: Venture Capital,12,2,N/A,N/A
+TIAA Bank,Finance: Personal & Commercial Banking,40,0,N/A,N/A
+Santander UK,Finance: Personal & Commercial Banking,30,30,N/A,N/A
+Vanquis Bank,Finance: Personal & Commercial Banking,26,26,N/A,N/A
+ICICI Bank Ltd.,Finance: Personal & Commercial Banking,24,0,N/A,N/A
+CIT,Finance: Personal & Commercial Banking,20,8,N/A,N/A
+SunTrust Banks,Finance: Personal & Commercial Banking,16,4,N/A,N/A
+U.S. Bank,Finance: Personal & Commercial Banking,16,0,N/A,N/A
+TD Bank,Finance: Personal & Commercial Banking,16,0,16,N/A
+BMO Harris Bank,Finance: Personal & Commercial Banking,12,12,N/A,N/A
+Commonwealth Bank of Australia,Finance: Personal & Commercial Banking,12,52,N/A,N/A
+M&T Bank Corporation,Finance: Personal & Commercial Banking,12,12,N/A,N/A
+Wintrust Financial Corporation,Finance: Personal & Commercial Banking,10,2,N/A,N/A
+"PNC Financial Services Group, Inc.",Finance: Personal & Commercial Banking,9,0,N/A,N/A
+Citizens Bank,Finance: Personal & Commercial Banking,12,0,N/A,N/A
+Santander,Finance: Personal & Commercial Banking,6,6,N/A,N/A
+Regal Bank,Finance: Personal & Commercial Banking,6,6,N/A,N/A
+OnDeck,Finance: Loans,12,1,N/A,N/A
+Quicken Loans Inc.,Finance: Loans,6,1.5,N/A,N/A
+OneMain Financial,Finance: Loans,8,0,N/A,N/A
+Penske Truck Leasing,Finance: Loans,6,12,N/A,N/A
+SoFi,Finance: Loans,2,N/A,2,N/A
+First Help Finacial,Finance: Loans,0,1,N/A,N/A
+UBS,Finance: Diversified,26,26,N/A,N/A
+Deutsche Bank,Finance: Diversified,16,14,16,N/A
+DTCC,Finance: Diversified,16,N/A,16,N/A
+Stifel Nicolaus & Co.,Finance: Diversified,16,N/A,8,N/A
+Edward Jones,Finance: Diversified,16,8,N/A,N/A
+Barclays Bank PLC,Finance: Diversified,16,8,N/A,N/A
+Morgan Stanley,Finance: Diversified,16,0,N/A,N/A
+Macquarie Group,Finance: Diversified,16,N/A,N/A,N/A
+Citigroup Inc.,Finance: Diversified,16,7,1,N/A
+Capital One,Finance: Diversified,17,0,N/A,N/A
+Wells Fargo,Finance: Diversified,16,8.5,10,N/A
+BNP Paribas,Finance: Diversified,14,0,N/A,N/A
+Scotiabank,Finance: Diversified,14,N/A,N/A,N/A
+Bank of America,Finance: Diversified,14,0,N/A,N/A
+Fidelity Investments,Finance: Diversified,15,N/A,N/A,N/A
+USAA,Finance: Diversified,12,5,N/A,N/A
+Raymond James Financial,Finance: Diversified,16,0,4,N/A
+Andrew Davidson & Co,Finance: Diversified,12,N/A,N/A,N/A
+"Ameriprise Financial, Inc.",Finance: Diversified,12,12,N/A,N/A
+Goldman Sachs,Finance: Diversified,12,1,N/A,N/A
+Securian Financial Group Inc.,Finance: Diversified,12,0,N/A,N/A
+CME Group,Finance: Diversified,12,N/A,N/A,N/A
+Credit Suisse,Finance: Diversified,12,N/A,N/A,N/A
+Geller & Company,Finance: Diversified,12,0,N/A,N/A
+RBC Wealth Management,Finance: Diversified,12,0,N/A,N/A
+TD Ameritrade,Finance: Diversified,10.5,1,N/A,N/A
+Northern Trust,Finance: Diversified,10,N/A,N/A,N/A
+Charles Schwab,Finance: Diversified,9,N/A,N/A,N/A
+JPMorgan Chase,Finance: Diversified,10,N/A,N/A,N/A
+Innisfree M&A Inc.,Finance: Diversified,8,N/A,N/A,N/A
+Marsh & McLennan,Finance: Diversified,8,N/A,N/A,N/A
+BB&T Corporation,Finance: Diversified,6,N/A,N/A,N/A
+First Citizens Bancshares,Finance: Diversified,4,6,N/A,N/A
+Navy Federal Credit Union,Finance: Credit Unions,12,4,N/A,N/A
+American Express Company,Finance: Credit & Fund Services,23,0,N/A,N/A
+Mastercard,Finance: Credit & Fund Services,16,0,N/A,N/A
+American Honda Finance Corp,Finance: Credit & Fund Services,12,5,N/A,N/A
+Equifax,Finance: Credit & Fund Services,12,N/A,6,N/A
+Discover Financial Services,Finance: Credit & Fund Services,12,12,N/A,N/A
+The Credit Pros,Finance: Credit & Fund Services,4,4,N/A,N/A
+Trinity Lifetime,Finance: Asset Management,39,13,N/A,N/A
+St. James's Place plc,Finance: Asset Management,26,N/A,26,N/A
+Gemini Trust Company,Finance: Asset Management,18,0,N/A,N/A
+Bain Capital,Finance: Asset Management,16,N/A,N/A,N/A
+KKR & Co. LP,Finance: Asset Management,16,N/A,N/A,N/A
+Apollo Global Management,Finance: Asset Management,16,N/A,2,0
+Point72,Finance: Asset Management,16,0,4,N/A
+AQR Capital Management,Finance: Asset Management,16,0,N/A,N/A
+"BlackRock, Inc.",Finance: Asset Management,16,52,N/A,N/A
+BNY Mellon,Finance: Asset Management,16,8,N/A,N/A
+TIAA,Finance: Asset Management,16,0,N/A,N/A
+TPG Capital,Finance: Asset Management,16,0,N/A,N/A
+PIMCO,Finance: Asset Management,12,0,N/A,N/A
+Capital Group,Finance: Asset Management,12,0,N/A,N/A
+Merrill,Finance: Asset Management,11,6,16,N/A
+Fisher Investments,Finance: Asset Management,8,4,N/A,N/A
+Mercer Advisors,Finance: Asset Management,6,0,N/A,12
+Vanguard Group,Finance: Asset Management,6,0,N/A,N/A
+American Century Investments,Finance: Asset Management,6,0,N/A,N/A
+Bridgewater Associates,Finance: Asset Management,6,6,N/A,N/A
+Coller Capital Ltd.,Finance: Asset Management,6,N/A,N/A,N/A
+North Star Resource Group,Finance: Asset Management,6,N/A,N/A,N/A
+Marks Group Wealth Management,Finance: Asset Management,4,N/A,N/A,N/A
+American Endowment Foundation,Finance: Asset Management,0,N/A,N/A,N/A
+WealthVest,Finance: Asset Management,0,9,N/A,N/A
+"Arrow Electronics, Inc.",Electronics: Wholesaler,6,0,6,N/A
+iRobot,Electronics: Manufacturing,16,0,N/A,N/A
+Samsung Electronics,Electronics: Manufacturing,13.5,N/A,N/A,N/A
+Trane Technologies,Electronics: Manufacturing,10,0,N/A,N/A
+Maxim Integrated Products,Electronics: Manufacturing,8,12,N/A,N/A
+"Mettler-Toledo International, Inc",Electronics: Manufacturing,6,6,N/A,N/A
+Brother International Corporation,Electronics: Manufacturing,6,12,N/A,N/A
+Sanmina,Electronics: Manufacturing,6,6,N/A,N/A
+"Chamberlain Group, Inc.",Electronics: Manufacturing,4,0,N/A,N/A
+Belden,Electronics: Manufacturing,0,12,0,12
+Achievement First,Educational Services: School,42,14,N/A,N/A
+Curtis Institute of Music,Educational Services: School,12,N/A,12,N/A
+Beaver Country Day School,Educational Services: School,4,2,N/A,N/A
+Austin Independent School District,Educational Services: School,1,N/A,N/A,N/A
+CIEE,Educational Services: Management,12,12,N/A,N/A
+Skillcrush,Educational Services: E-Learning,8,8,N/A,N/A
+Concordia University,Educational Services: College & Universities,52,26,N/A,N/A
+Imperial College London,Educational Services: College & Universities,18,N/A,N/A,N/A
+Weill Cornell Medicine,Educational Services: College & Universities,12.5,N/A,N/A,N/A
+MIT,Educational Services: College & Universities,12,12,N/A,N/A
+University of Michigan,Educational Services: College & Universities,12,12,N/A,N/A
+Tufts University,Educational Services: College & Universities,12,4,N/A,N/A
+Florida International University,Educational Services: College & Universities,12,12,N/A,N/A
+University of Southern California,Educational Services: College & Universities,12,4,N/A,N/A
+Lasell College,Educational Services: College & Universities,12,N/A,N/A,N/A
+Merrimack College,Educational Services: College & Universities,12,N/A,N/A,N/A
+University At Buffalo,Educational Services: College & Universities,12,N/A,N/A,N/A
+University of Pennsylvania,Educational Services: College & Universities,10,2,4,N/A
+NYU Langone Health,Educational Services: College & Universities,9.5,N/A,N/A,N/A
+Northwestern University,Educational Services: College & Universities,9,6,N/A,N/A
+Yale University,Educational Services: College & Universities,8,8,N/A,N/A
+Northeastern University,Educational Services: College & Universities,8,4,N/A,N/A
+Marquette University,Educational Services: College & Universities,8,N/A,N/A,N/A
+Duke University,Educational Services: College & Universities,7.5,12,N/A,N/A
+Walden University,Educational Services: College & Universities,6,6,1,N/A
+Case Western Reserve University,Educational Services: College & Universities,6,N/A,N/A,N/A
+Reaktor,Design,16,8,N/A,N/A
+Golden Touch,Design,6,6,N/A,N/A
+Full Creative,Design,6,6,N/A,N/A
+Sierra Nevada Corperation,Defense & Space,5,8,N/A,N/A
+Northrop Grumman Corporation,Defense & Space,5,12,N/A,N/A
+BAE Systems,Defense & Space,2,12,N/A,N/A
+The Estee Lauder Companies Inc.,Cosmetics,26,0,N/A,N/A
+L'Oréal USA,Cosmetics,14,0,N/A,N/A
+Benefit Cosmetics LLC,Cosmetics,12,4,N/A,N/A
+Aesop,Cosmetics,12,N/A,6,N/A
+Mac Cosmetics,Cosmetics,12,8,N/A,N/A
+Curology,Cosmetics,12,12,N/A,N/A
+Hasbro Inc.,Consumer Packaged Goods: Toys & Baby Products,18,18,N/A,13
+"Altria Group, Inc.",Consumer Packaged Goods: Tobacco,6,0,N/A,N/A
+Colgate-Palmolive Company,Consumer Packaged Goods: Packaged Products,26,0,N/A,N/A
+Reckitt Benckiser,Consumer Packaged Goods: Packaged Products,16,36,N/A,N/A
+Procter & Gamble,Consumer Packaged Goods: Packaged Products,16,52,N/A,N/A
+Unilever,Consumer Packaged Goods: Packaged Products,16,4,N/A,N/A
+Johnson & Johnson,Consumer Packaged Goods: Packaged Products,12,46,8,N/A
+The Scotts Miracle-Gro Company,Consumer Packaged Goods: Packaged Products,10,0,N/A,N/A
+Nestle Purina PetCare Company,Consumer Packaged Goods: Packaged Products,1,0,N/A,N/A
+Henkel,Consumer Packaged Goods: Packaged Products,0,16,N/A,N/A
+"The Dannon Company, Inc.",Consumer Packaged Goods: Packaged Foods,20,0,N/A,N/A
+"General Mills, Inc.",Consumer Packaged Goods: Packaged Foods,18,12,12,N/A
+The J.M. Smucker Company,Consumer Packaged Goods: Packaged Foods,8,8,N/A,N/A
+Lindt & Sprüngli,Consumer Packaged Goods: Packaged Foods,6,6,N/A,N/A
+"ConAgra Foods, Inc.",Consumer Packaged Goods: Packaged Foods,6,6,N/A,N/A
+Chewy,Consumer Packaged Goods: Packaged Foods,6,6,N/A,N/A
+"Mondelez International, Inc.",Consumer Packaged Goods: Packaged Foods,6,7,6,N/A
+The Coffee Bean & Tea Leaf,Consumer Packaged Goods: Packaged Foods,6,0,N/A,N/A
+Memphis Meats,Consumer Packaged Goods: Packaged Foods,6,12,6,12
+Anheuser-Busch InBev,Consumer Packaged Goods: Beverages,26,26,N/A,N/A
+Beam Suntory,Consumer Packaged Goods: Beverages,26,0,N/A,N/A
+Miller Coors,Consumer Packaged Goods: Beverages,16,34,16,N/A
+Nestle Waters,Consumer Packaged Goods: Beverages,14,10,N/A,N/A
+Pernod Ricard,Consumer Packaged Goods: Beverages,12,0,N/A,N/A
+Molson Coors Brewing Company,Consumer Packaged Goods: Beverages,12,0,N/A,N/A
+E. & J. Gallo Winery,Consumer Packaged Goods: Beverages,9,12,N/A,N/A
+PepsiCo,Consumer Packaged Goods: Beverages,7.5,8,N/A,N/A
+Boston Beer Company,Consumer Packaged Goods: Beverages,3,10,N/A,N/A
+OC&C Strategy Consultants,Consulting Services,26,N/A,N/A,N/A
+Dalberg,Consulting Services,26,26,N/A,N/A
+Oliver Wyman,Consulting Services,20,0,N/A,N/A
+Deloitte,Consulting Services,16,4,N/A,N/A
+Accenture,Consulting Services,16,4,N/A,N/A
+Bain & Company,Consulting Services,16,3,N/A,N/A
+Artemis Connection,Consulting Services,16,N/A,N/A,N/A
+ZS,Consulting Services,16,10,N/A,N/A
+EY,Consulting Services,16,26,16,N/A
+Mead & Hunt,Consulting Services,16,N/A,N/A,N/A
+Heidrick & Struggles,Consulting Services,16,12,N/A,N/A
+Boston Consulting Group,Consulting Services,16,4,N/A,N/A
+West Monroe,Consulting Services,12,0,N/A,N/A
+PwC,Consulting Services,12,4,N/A,N/A
+84.51°,Consulting Services,12,0,N/A,N/A
+Capgemini Consulting Worldwide,Consulting Services,12,N/A,N/A,N/A
+Mercer Consulting,Consulting Services,12,8,N/A,N/A
+Protiviti,Consulting Services,12,0,N/A,N/A
+Slalom Consulting,Consulting Services,12,26,N/A,N/A
+DeciBio,Consulting Services,12,N/A,N/A,N/A
+Alvarez & Marsal,Consulting Services,12,N/A,N/A,N/A
+KPMG,Consulting Services,11,N/A,N/A,N/A
+Intentional Futures,Consulting Services,8,6,N/A,N/A
+Macro Consultants LLC,Consulting Services,8,12,N/A,N/A
+MSA Worldwide,Consulting Services,8,0,N/A,N/A
+SRK Consulting,Consulting Services,8,12,N/A,N/A
+World 50,Consulting Services,8,12,N/A,N/A
+Pariveda Solutions,Consulting Services,6,0,N/A,N/A
+GHD Group Pty Ltd,Consulting Services,6,12,N/A,N/A
+Booz Allen Hamilton,Consulting Services,5,N/A,N/A,N/A
+Navigant Consulting,Consulting Services,6,N/A,N/A,N/A
+Stride Consulting,Consulting Services,3,N/A,N/A,N/A
+Search Discovery,Consulting Services,2,12,N/A,N/A
+General Electric,Conglomerate,14,26,N/A,N/A
+Newell Brands,Conglomerate,12,3,N/A,N/A
+"Ecolab, Inc.",Conglomerate,9,0,6,N/A
+United Technologies,Conglomerate,12,0,N/A,N/A
+Siemens,Conglomerate,6,6,2,N/A
+Koch Industries,Conglomerate,6,6,N/A,N/A
+Growmark,Conglomerate,2,12,N/A,N/A
+olo,Business Services: Technology Solutions,12,12,N/A,N/A
+CareDox,Business Services: Technology Solutions,12,1,N/A,N/A
+Todaytix,Business Services: Technology Solutions,12,0,N/A,N/A
+Alight Solutions,Business Services: Technology Solutions,9,6,N/A,N/A
+Pitney Bowes,Business Services: Technology Solutions,8,0,N/A,N/A
+CGI Group,Business Services: Technology Solutions,8,0,N/A,N/A
+Legacy.com,Business Services: Technology Solutions,2,10,N/A,N/A
+Westat,Business Services: Technology Solutions,0,12,N/A,N/A
+Randstad Sourceright,Business Services: Staffing & Outsourcing,39,13,N/A,N/A
+Daversa Partners,Business Services: Staffing & Outsourcing,12,0,N/A,N/A
+Krucial Staffing,Business Services: Staffing & Outsourcing,12,0,N/A,N/A
+Search Solution Group,Business Services: Staffing & Outsourcing,12,6,N/A,N/A
+Onward Search,Business Services: Staffing & Outsourcing,8,12,N/A,N/A
+Robert Half,Business Services: Staffing & Outsourcing,6,4,N/A,N/A
+Beetroot,Business Services: Staffing & Outsourcing,6,52,N/A,N/A
+EA Langenfeld,Business Services: Staffing & Outsourcing,6,12,N/A,N/A
+Paychex Inc,Business Services: Staffing & Outsourcing,6,6,6,N/A
+Randstad USA,Business Services: Staffing & Outsourcing,5,7,0,0
+Maxim Healthcare Services,Business Services: Staffing & Outsourcing,5,0,N/A,N/A
+Rochester Telemessaging Center,Business Services: Staffing & Outsourcing,3,12,N/A,N/A
+"Aerotek, Inc.",Business Services: Staffing & Outsourcing,2,10,N/A,N/A
+Hays PLC,Business Services: Staffing & Outsourcing,2,N/A,N/A,N/A
+Allegis Global Solutions,Business Services: Staffing & Outsourcing,2,12,N/A,N/A
+Concurrent HRO,Business Services: Staffing & Outsourcing,2,2,N/A,N/A
+Kforce,Business Services: Staffing & Outsourcing,1,0,N/A,N/A
+S.i. Systems,Business Services: Staffing & Outsourcing,0,N/A,N/A,N/A
+24-7 Intouch,Business Services: Staffing & Outsourcing,0,N/A,0,N/A
+Securitas,Business Services: Security,52,52,0,N/A
+G4S,Business Services: Security,2,N/A,N/A,N/A
+WeWork,Business Services: Other,16,4,16,4
+UL LLC,Business Services: Other,13.5,15.5,N/A,N/A
+Corteva Agriscience,Business Services: Other,12,0,N/A,N/A
+The Larkin Company,Business Services: Other,12,12,N/A,N/A
+Interactive Advertising Bureau,Business Services: Other,12,0,N/A,N/A
+"LOTH, Inc.",Business Services: Other,10,0,N/A,N/A
+ICON plc,Business Services: Other,8,4,N/A,N/A
+StructureCare,Business Services: Other,8,4,N/A,N/A
+"CoStar Group, Inc.",Business Services: Other,6,6,N/A,N/A
+MIC Global Services,Business Services: Other,6,12,N/A,N/A
+Mathematica Policy Research,Business Services: Other,6,10,N/A,N/A
+Total System Services,Business Services: Other,6,6,N/A,N/A
+ADP,Business Services: Human Resources,6,2,N/A,N/A
+Aramark Holdings Corporation,Business Services: Food & Hospitality,6,12,N/A,N/A
+Sodexo,Business Services: Food & Hospitality,6,12,0,0
+Compass Group PLC,Business Services: Food & Hospitality,0,N/A,N/A,N/A
+Cintas Corporation,Business Services: Food & Hospitality,0,12,N/A,N/A
+Johnson Controls,Automotive: Parts Manufacturing,6,4.5,6,N/A
+Continental,Automotive: Parts Manufacturing,4,4,N/A,N/A
+The Goodyear Tire & Rubber Company,Automotive: Parts Manufacturing,6,12,N/A,N/A
+Bendix Commercial Vehicle Systems,Automotive: Parts Manufacturing,6,0,N/A,N/A
+Michelin,Automotive: Parts Manufacturing,2,0,N/A,N/A
+General Motors,Automotive: Manufacturers,10,39,N/A,N/A
+Aptiv PLC,Automotive: Manufacturers,8,16,N/A,N/A
+FCA US LLC,Automotive: Manufacturers,7.5,1,0,N/A
+Nissan North America,Automotive: Manufacturers,6,N/A,N/A,N/A
+Toyota North America,Automotive: Manufacturers,6,N/A,0,N/A
+Young Automotive Group,Automotive: Dealers,3,12,N/A,N/A
+Creative Artists Agency,Arts & Entertainment,12,N/A,12,N/A
+LaneOne,Arts & Entertainment,6,0,N/A,N/A
+GoDigital Media Group,Arts & Entertainment,0,N/A,0,N/A
+Boeing,Aerospace,12,12,12,N/A
+Thales Group,Aerospace,8,3,N/A,N/A
+Lockheed Martin Corporation,Aerospace,8,0,4,N/A
+Cessna Aircraft Company,Aerospace,8,10,12,N/A
+eMarketer,Advertising: Market Research,12,0,N/A,N/A
+Grant Thornton,Accounting Services,52,52,N/A,N/A
+Mazars USA,Accounting Services,13,13,N/A,N/A
+RSM US LLP,Accounting Services,12,0,7,N/A
+CliftonLarsonAllen,Accounting Services,9.5,9,N/A,N/A
+Crowe,Accounting Services,6,0,N/A,N/A
+Myers & Stauffer LC,Accounting Services,8,52,N/A,N/A
+Medidata Solutions,Technology: Software,16,N/A,N/A,N/A
+Nutanix,Technology: Software,16,1,N/A,N/A
+"HubSpot, Inc.",Technology: Software,16,N/A,N/A,N/A
+NetSuite Inc.,Technology: Software,16,47,N/A,N/A
+Safety Labs Inc,Technology: Software,15,N/A,N/A,N/A
+Zapier,Technology: Software,14,N/A,N/A,N/A
+Microsoft,Technology: Software,12,N/A,N/A,N/A
+"Intuit, Inc",Technology: Software,12,7,N/A,N/A
+AppDynamics,Technology: Software,13,0,N/A,N/A
+NexJ Systems Inc.,Technology: Software,13,N/A,N/A,N/A
+Oracle,Technology: Software,12,N/A,N/A,N/A
+Alkami Technology,Technology: Software,12,N/A,N/A,N/A
+"PTC, Inc",Technology: Software,12,0,N/A,N/A
+Patron Technology,Technology: Software,12,N/A,N/A,N/A
+CentralSquare Technologies,Technology: Software,12,N/A,N/A,N/A
+Tableau Software,Technology: Software,12,N/A,N/A,N/A
+"LogMeIn, Inc.",Technology: Software,12,N/A,N/A,N/A
+Pegasystems Inc.,Technology: Software,12,12,N/A,N/A
+GoodCore Software,Technology: Software,12,N/A,N/A,N/A
+Klaviyo,Technology: Software,12,N/A,N/A,N/A
+Sage Intacct,Technology: Software,12,0,N/A,N/A
+MobileIron,Technology: Software,12,16,N/A,N/A
+ConsenSys,Technology: Software,12,N/A,N/A,N/A
+Mapbox,Technology: Software,12,0,N/A,N/A
+Looker,Technology: Software,12,N/A,N/A,N/A
+Amplitude,Technology: Software,12,N/A,N/A,N/A
+"Panopto, Inc.",Technology: Software,12,4,N/A,N/A
+GitHub,Technology: Software,12,N/A,N/A,N/A
+"Pivotal Software, Inc.",Technology: Software,12,0,N/A,N/A
+PhotoShelter,Technology: Software,12,N/A,N/A,N/A
+Blackbaud,Technology: Software,12,N/A,N/A,N/A
+New Relic,Technology: Software,10,N/A,N/A,N/A
+Medallia,Technology: Software,10,N/A,N/A,N/A
+DxMinds Technologies Inc,Technology: Software,10,N/A,N/A,N/A
+BMC Software Inc.,Technology: Software,10,N/A,N/A,N/A
+Bubble,Technology: Software,10,N/A,N/A,N/A
+ServiceTitan,Technology: Software,9,N/A,N/A,N/A
+InterSystems,Technology: Software,9,3,N/A,N/A
+Lionbridge,Technology: Software,8,N/A,N/A,N/A
+Paytronix Systems,Technology: Software,8,4,N/A,N/A
+Ellevation Education,Technology: Software,8,0,N/A,N/A
+MINDBODY,Technology: Software,6,N/A,N/A,N/A
+Lithero,Technology: Software,8,4,N/A,N/A
+Flexera Software,Technology: Software,8,N/A,N/A,N/A
+"Wrike, Inc.",Technology: Software,8,N/A,N/A,N/A
+Ultimate Software,Technology: Software,6,N/A,N/A,N/A
+Xactly Corporation,Technology: Software,6,N/A,N/A,N/A
+Capstone Technology,Technology: Software,6,N/A,N/A,N/A
+Agilysys,Technology: Software,6,N/A,N/A,N/A
+"Tyler Technologies, Inc.",Technology: Software,6,N/A,N/A,N/A
+"Bentley Systems, Inc.",Technology: Software,6,N/A,N/A,N/A
+"AppNexus, a Xandr Company",Technology: Software,6,N/A,N/A,N/A
+BrightEdge,Technology: Software,6,N/A,N/A,N/A
+ANSYS,Technology: Software,6,N/A,N/A,N/A
+Mentor Graphics,Technology: Software,6,N/A,N/A,N/A
+Wowza Media Systems,Technology: Software,6,6,N/A,N/A
+Xero,Technology: Software,6,N/A,N/A,N/A
+Frontline Education,Technology: Software,6,N/A,N/A,N/A
+Interfolio,Technology: Software,6,N/A,N/A,N/A
+Qualtrics,Technology: Software,4,N/A,N/A,N/A
+"ExamSoft Worldwide, Inc.",Technology: Software,4,N/A,N/A,N/A
+SurveyGizmo,Technology: Software,4,N/A,N/A,N/A
+"Sulzer US, LLC",Technology: Software,4,N/A,N/A,N/A
+Esri,Technology: Software,4,N/A,N/A,N/A
+Workiva,Technology: Software,3,N/A,N/A,N/A
+Thryv,Technology: Software,3,N/A,N/A,N/A
+Praxent,Technology: Software,2,N/A,N/A,N/A
+panOpen,Technology: Software,2,N/A,N/A,N/A
+NextGen Healthcare,Technology: Software,2,N/A,N/A,N/A
+Epic Systems,Technology: Software,2,N/A,N/A,N/A
+Funnel,Technology: Software,0,N/A,N/A,N/A
+Garmin,Technology: Manufacturing,2,N/A,N/A,N/A
+Pandora,Technology: Consumer Internet,12,N/A,N/A,N/A
+AOL,Technology: Consumer Internet,12,N/A,N/A,N/A
+Freewheel,Technology: Consumer Internet,12,4,N/A,N/A
+Amazon,Technology: Consumer Internet,12,N/A,N/A,N/A
+Grubhub,Technology: Consumer Internet,12,0,N/A,N/A
+Angie's List,Technology: Consumer Internet,11,N/A,N/A,N/A
+CampusLogic,Technology: Consumer Internet,10,0,N/A,N/A
+DoorDash,Technology: Consumer Internet,8,N/A,N/A,N/A
+Offerup,Technology: Consumer Internet,8,8,N/A,N/A
+Rebag,Technology: Consumer Internet,8,0,N/A,N/A
+Talentsky,Technology: Consumer Internet,6,12,N/A,N/A
+ON Semiconductor,Technology: Consumer Internet,4,N/A,N/A,N/A
+WorkMarket,Technology: Consumer Internet,4,0,N/A,N/A
+Zillow,Technology: Consumer Internet,4,N/A,N/A,N/A
+Ibotta,Technology: Consumer Internet,4,0,N/A,N/A
+Travelzoo,Technology: Consumer Internet,4,N/A,N/A,N/A
+Divercity,Technology: Consumer Internet,1,1,N/A,N/A
+"Twitch Interactive, Inc",Technology: Consumer Internet,0,N/A,N/A,N/A
+Inovalon,Technology: B2B Tech Services,2,N/A,N/A,N/A
+GDIT,Technology: B2B Tech Services,1,N/A,N/A,N/A
