@@ -1,12 +1,5 @@
-This is your group repo for your final project for COGS108.
+Women in the Workforce
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+Data analysis: Does the amount of females who work in an industry predict the amount of maternity leave that is offered in that industry. Does having more women in management and executive roles predict that industry has an effect on the amount of maternity leave that is offered in that industry? Following this line of questioning, how has female participation in the workforce changed over time?
 
-This repository will be frozen on the final project due date: 11:59pm on Wednesday, June 10th. No further changes can be made after that time.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebook in this repository.
-
-For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XX is replaced by your group number):
-
-- 'ProjectProposal_groupXX.ipynb'
-- 'FinalProject_groupXX.ipynb'
